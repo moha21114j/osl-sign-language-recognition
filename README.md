@@ -22,14 +22,15 @@ The system consists of two main components:
    Translates extracted features into natural language sentences.
 
 ## Project Structure
-.
-├── OSL_Run_Pipeline/      # Training and evaluation pipeline
-├── demo/                  # Real-time inference and pose extraction
-├── external_metrics/      # Evaluation metrics (BLEU, ROUGE)
-├── stgcn_layers/          # ST-GCN model components
-├── data/labels/           # Label files (download separately)
-├── checkpoints/           # Model weights (not included)
-├── notebooks/             # Analysis and experiments
+
+├── OSL_Run_Pipeline/ # Training and evaluation pipeline
+├── demo/ # Real-time inference and pose extraction
+├── external_metrics/ # Evaluation metrics (BLEU, ROUGE)
+├── stgcn_layers/ # ST-GCN model components
+├── data/
+│ └── labels/ # Label files (download separately)
+├── checkpoints/ # Model weights (not included)
+├── notebooks/ # Analysis and experiments
 ├── config.py
 ├── models.py
 ├── datasets.py
@@ -65,7 +66,12 @@ python demo_webcam.py
 
 ## Results
 The system was evaluated using standard NLP metrics including BLEU and ROUGE scores.
+## Acknowledgement
+This project is built upon the Uni-Sign framework, “Toward Unified Sign Language Understanding at Scale.” The original implementation and research provided a strong foundation for developing the Orange Sign Language (OSL) recognition system presented in this work.
 
+We acknowledge and appreciate the contributions of the authors of Uni-Sign for making their codebase and methodology publicly available. Their work on integrating Spatial-Temporal Graph Convolutional Networks (ST-GCN) with transformer-based models significantly influenced the design and implementation of this project.
+
+This project adapts and extends the Uni-Sign framework to support Orange Sign Language, including dataset preparation, model training, and real-time inference components.
 ## Author
 FYP Team
 Final Year Project – Sultan Qaboos University
