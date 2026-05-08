@@ -22,6 +22,7 @@ The system consists of two main components:
    Translates extracted features into natural language sentences.
 
 ## Project Structure
+```
 
 ├── OSL_Run_Pipeline/ # Training and evaluation pipeline
 ├── demo/ # Real-time inference and pose extraction
@@ -35,6 +36,7 @@ The system consists of two main components:
 ├── models.py
 ├── datasets.py
 └── README.md
+```
 
 ## Dataset
 Due to size limitations, the dataset and trained model checkpoints are not included in this repository.
