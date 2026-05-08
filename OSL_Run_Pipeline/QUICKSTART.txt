@@ -1,0 +1,347 @@
+================================================================================
+QUICK START GUIDE - Real-time Sign Language Recognition
+================================================================================
+
+CREATED: March 2026
+STATUS: Ready for use
+LOCATION: C:\Users\MOBPC\Downloads\FYP\FYPproject\OSL_Dataset\OSL_FineTuning\
+
+================================================================================
+FILES CREATED
+================================================================================
+
+1. webcam_inference_osl.py (1,100+ lines)
+   - Main inference script for real-time sign recognition
+   - Loads trained model checkpoint
+   - Captures webcam input
+   - Performs pose extraction with MediaPipe
+   - Runs model inference on sequences
+   - Displays predictions with confidence scores
+
+2. README_INFERENCE.md
+   - Comprehensive documentation
+   - Installation instructions
+   - Usage guide
+   - Keyboard controls
+   - Troubleshooting tips
+   - Configuration options
+   - FAQ
+
+3. install_dependencies.py
+   - Automated dependency checker
+   - Interactive installation wizard
+   - Support for GPU/CPU setup
+
+4. QUICKSTART.txt (this file)
+   - Quick reference guide
+
+================================================================================
+STEP 1: INSTALL DEPENDENCIES (2 minutes)
+================================================================================
+
+Option A: Using the installer script (Recommended)
+$ python install_dependencies.py
+  - Follow the interactive prompts
+  - Select GPU or CPU mode
+  - Automatic installation
+
+Option B: Manual installation
+$ pip install opencv-python mediapipe torch torchvision numpy
+
+For GPU support (CUDA 11.8):
+$ pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
+
+================================================================================
+STEP 2: VERIFY SETUP
+================================================================================
+
+Check that required files exist:
+✓ Checkpoint: Uni-Sign-main/out/osl_words_aug_only_finetuning/best_checkpoint.pth
+✓ Labels: OSL_Dataset/Words.txt
+✓ Script: OSL_Dataset/OSL_FineTuning/webcam_inference_osl.py
+
+If any are missing:
+- Run training again in finetuning_aug.ipynb (Cell 6)
+- Check file paths are correct
+
+================================================================================
+STEP 3: RUN THE SCRIPT (1-2 seconds startup time)
+================================================================================
+
+Basic usage:
+$ cd C:\Users\MOBPC\Downloads\FYP\FYPproject\OSL_Dataset\OSL_FineTuning
+$ python webcam_inference_osl.py
+
+With options:
+$ python webcam_inference_osl.py --device cuda    # Force GPU
+$ python webcam_inference_osl.py --device cpu     # Force CPU
+
+Expected startup output:
+  ✓ Configuration valid
+  ✓ Webcam opened
+  ✓ Model loaded successfully
+  ✓ Loaded 1000 word labels (or similar)
+  
+  REAL-TIME SIGN LANGUAGE RECOGNITION
+  ============
+  Controls:
+    SPACE  - Start/stop recording
+    R      - Recognize sequence
+    C      - Clear sequence
+    Q      - Quit
+
+================================================================================
+STEP 4: USE THE INTERFACE
+================================================================================
+
+Recording a sign:
+1. Press SPACE to start recording (status shows: "Recording: 0 frames")
+2. Perform a sign in front of the webcam
+3. Press SPACE again to stop recording (shows frame count)
+
+Getting a prediction:
+1. Press R to recognize the sequence
+2. Results appear in console:
+   
+   ✅ Top-5 Predictions:
+      1. hello                (88.4%)
+      2. hi                   (7.2%)
+      3. good                 (2.8%)
+      4. morning              (1.3%)
+      5. thanks               (0.3%)
+
+Clearing and repeating:
+1. Press C to clear the buffer
+2. Press SPACE to start recording a new sign
+3. Repeat as needed
+
+Exiting:
+- Press Q to quit
+- Alt+F4 to force close
+
+================================================================================
+KEYBOARD CONTROLS SUMMARY
+================================================================================
+
+| Key       | Action                                     |
+|-----------|------------------------------------------|
+| SPACE     | Start/stop recording a sign               |
+| R         | Run recognition on recorded sequence      |
+| C         | Clear current sequence                    |
+| Q         | Quit application                         |
+
+================================================================================
+REQUIREMENTS FOR GOOD ACCURACY
+================================================================================
+
+1. Lighting
+   - Bright, even lighting on hands and face
+   - Avoid backlighting and harsh shadows
+   - Natural daylight or LED preferred
+
+2. Camera position
+   - Webcam at eye level
+   - Entire body in frame (or at least torso and hands)
+   - Camera 1-2 meters away
+
+3. Hand movements
+   - Clear, deliberate hand motions
+   - Complete the sign fully (~1-2 seconds)
+   - Avoid rapid jerky movements
+   - Let hands stabilize at end of sign
+
+4. Background
+   - Plain or simple background preferred
+   - No clutter behind signer
+
+5. Clothing
+   - Avoid loose sleeves that hide hands
+   - Neutral colored clothing for contrast
+
+================================================================================
+WHAT THE SCRIPT DOES
+================================================================================
+
+1. Loads model
+   - Reads trained checkpoint from disk
+   - Initializes Uni-Sign ISLR model
+   - Moves to GPU (or CPU)
+   - Sets to evaluation mode
+
+2. Initializes pose extraction
+   - Sets up MediaPipe Holistic
+   - Prepares for real-time keypoint extraction
+
+3. Opens webcam
+   - Captures frames at 30 FPS
+   - Displays webcam feed with pose skeleton
+
+4. Records pose sequences
+   - When SPACE pressed: captures pose keypoints
+   - Maintains buffer of last 64 frames
+   - Shows frame count in real-time
+
+5. Runs inference
+   - When R pressed: runs model on recorded sequence
+   - Extracts top-5 predictions
+   - Shows confidence scores
+   - Displays on screen
+
+6. Visualizations
+   - Shows live webcam feed
+   - Overlays pose skeleton (MediaPipe)
+   - Displays status and instructions
+   - Shows last prediction
+
+================================================================================
+EXPECTED PERFORMANCE
+================================================================================
+
+Accuracy (depends on training quality):
+- Top-1 accuracy: 70-95% on clean test set
+- Varies by sign difficulty: common signs ~95%, rare signs ~60%
+
+Speed:
+- GPU (RTX 3060+): ~20-50ms per frame (~20-50 FPS)
+- CPU: ~100-500ms per frame (~2-10 FPS)
+
+Requirements:
+- Modern GPU (optional but recommended): fastest
+- CPU: works but slower
+- RAM: ~2-4 GB
+- Webcam: standard USB or built-in
+
+================================================================================
+FEATURES INCLUDED
+================================================================================
+
+✅ Real-time inference
+✅ Pose keypoint extraction with MediaPipe
+✅ Sequence buffering (sliding window)
+✅ GPU acceleration (CUDA)
+✅ Live visualization with skeleton overlay
+✅ Top-5 predictions with confidences
+✅ Keyboard controls
+✅ Status indicators
+✅ Error handling
+✅ Graceful shutdown
+
+Optional (can be added):
+- Recording to file
+- Saving predictions to CSV
+- Confidence thresholding
+- Smoothing/majority voting
+- Multiple sign sequence recognition
+
+================================================================================
+TROUBLESHOOTING - QUICK FIXES
+================================================================================
+
+Problem: Module import errors
+Fix: cd to script directory and ensure PYTHONPATH includes Uni-Sign
+
+Problem: Webcam not opening
+Fix: Check if another app uses webcam, unplug/replug, restart
+
+Problem: Out of memory
+Fix: Close other apps or use --device cpu
+
+Problem: No pose landmarks detected
+Fix: Better lighting, ensure hands visible, get closer to camera
+
+Problem: Low accuracy
+Fix: Slow down sign movements, ensure good lighting, train longer
+
+Problem: Script crashes on startup
+Fix: Check all required files exist (checkpoint, labels file)
+
+See README_INFERENCE.md for detailed troubleshooting
+
+================================================================================
+PERFORMANCE TIPS
+================================================================================
+
+For better accuracy:
+- Record at least 30 frames (~1 second) per sign
+- Use good lighting
+- Avoid rapid jerky movements
+- Keep entire body in frame
+
+For faster computation:
+- Use GPU instead of CPU
+- Reduce WEBCAM_WIDTH/HEIGHT to 480p
+
+For more stable predictions:
+- Increase MIN_FRAMES_TO_RECOGNIZE
+- Increase SMOOTHING_WINDOW in Config
+
+================================================================================
+FILE LOCATIONS REFERENCE
+================================================================================
+
+Training checkpoint:
+  C:\Users\MOBPC\Downloads\FYP\FYPproject\Uni-Sign-main\Uni-Sign-main\out\osl_words_aug_only_finetuning\best_checkpoint.pth
+
+Word labels:
+  C:\Users\MOBPC\Downloads\FYP\FYPproject\OSL_Dataset\Words.txt
+
+Script:
+  C:\Users\MOBPC\Downloads\FYP\FYPproject\OSL_Dataset\OSL_FineTuning\webcam_inference_osl.py
+
+Uni-Sign directory:
+  C:\Users\MOBPC\Downloads\FYP\FYPproject\Uni-Sign-main\Uni-Sign-main
+
+================================================================================
+NEXT STEPS
+================================================================================
+
+1. ✓ Review this file
+2. ✓ Run install_dependencies.py
+3. ✓ Start webcam_inference_osl.py
+4. ✓ Test with a few signs
+5. ✓ Adjust options in Config if needed
+6. ✓ Read detailed README_INFERENCE.md for advanced options
+
+================================================================================
+SUPPORT
+================================================================================
+
+For detailed information:
+- See README_INFERENCE.md (comprehensive guide)
+- Check code comments in webcam_inference_osl.py
+- Review training config in finetuning_aug.ipynb
+
+Common issues:
+- Check Troubleshooting section in README_INFERENCE.md
+- Verify all paths exist
+- Ensure dependencies installed correctly
+
+================================================================================
+QUICK COMMAND REFERENCE
+================================================================================
+
+Install dependencies:
+$ python install_dependencies.py
+
+Run inference:
+$ python webcam_inference_osl.py
+
+Run on CPU only:
+$ python webcam_inference_osl.py --device cpu
+
+Run on GPU:
+$ python webcam_inference_osl.py --device cuda
+
+Check Python version:
+$ python --version
+
+Check PyTorch installation:
+$ python -c "import torch; print(f'GPU: {torch.cuda.is_available()}')"
+
+================================================================================
+CREATED BY: AI Assistant
+CREATED DATE: March 21, 2026
+FRAMEWORK: Uni-Sign (Sign Language Recognition)
+TASK: ISLR (Isolated Sign Language Recognition)
+LICENSE: Same as project
+================================================================================

@@ -1,0 +1,32 @@
+OSL RUN PIPELINE (WORDS + SENTENCES)
+
+Folder purpose:
+- This folder contains the main scripts you need to run Uni-Sign on OSL words and OSL sentences.
+- Originals are kept in OSL_FineTuning. These are copied here for easier execution.
+
+Requirements:
+1) Open PowerShell in OSL_Dataset
+2) Activate your environment:
+   conda activate torchgpu
+
+Run order:
+1) Install dependencies (only once):
+   python OSL_Run_Pipeline/install_dependencies.py
+
+2) Train words (ISLR):
+   python OSL_Run_Pipeline/run_osl_training.py
+
+3) Prepare sentences dataset labels/splits (SLT):
+   python OSL_Run_Pipeline/prepare_osl_sentences_dataset.py
+
+4) Train sentences (SLT):
+   python OSL_Run_Pipeline/run_osl_sentences_training.py
+
+Optional flags for sentence prep:
+- Disable augmented variants in train split:
+  python OSL_Run_Pipeline/prepare_osl_sentences_dataset.py --no-augmented
+
+Expected outputs:
+- Words output: Uni-Sign-main/Uni-Sign-main/out/osl_words_finetuning
+- Sentences labels: Uni-Sign-main/Uni-Sign-main/data/OSL-Sentences
+- Sentences output: Uni-Sign-main/Uni-Sign-main/out/osl_sentences_finetuning

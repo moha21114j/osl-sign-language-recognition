@@ -1,0 +1,71 @@
+OSL-Words Original Dataset — Split Analysis
+==================================================
+
+Total original videos          : 1235
+Total unique words/classes     : 692
+
+Video Count Distribution
+------------------------------
+  Classes with 1 video  :  404  (58.4%)
+  Classes with 2 videos :  158  (22.8%)
+  Classes with 3+ videos:  130  (18.8%)
+
+Signer Distribution
+------------------------------
+  Classes with 1 signer  :  549  (79.3%)
+  Classes with 2+ signers:  143  (20.7%)
+
+Splitability Assessment
+------------------------------
+  Safe for train/dev/test split (>=3 original videos): 130 classes
+  Should remain train-only (1-2 original videos)     : 562 classes
+
+NOTE: The current split uses only 34 test samples covering 33 words out of
+      692 total classes. A proper re-split using all 1235 original
+      videos would provide more reliable evaluation coverage.
+
+Top 20 words by video count:
+------------------------------
+  معلم                           videos=12  signers=4 (S01, S02, S05, S07)
+  سيئ                            videos=9  signers=1 (S05)
+  طالب                           videos=8  signers=3 (S01, S02, S05)
+  مدرسة                          videos=7  signers=4 (S01, S02, S03, S07)
+  ممكن                           videos=7  signers=2 (S05, S09)
+  كتاب                           videos=7  signers=4 (S01, S02, S03, S06)
+  جيد                            videos=7  signers=1 (S05)
+  مساعدة                         videos=6  signers=2 (S04, S05)
+  دفتر                           videos=6  signers=4 (S01, S02, S03, S06)
+  سؤال                           videos=6  signers=4 (S01, S02, S03, S06)
+  مستشفى                         videos=6  signers=4 (S01, S02, S03, S07)
+  السبورة                        videos=6  signers=4 (S01, S02, S03, S06)
+  مركز                           videos=6  signers=2 (S05, S07)
+  جامعة                          videos=6  signers=4 (S01, S02, S03, S07)
+  مكتبة                          videos=6  signers=4 (S01, S02, S03, S06)
+  تعبان                          videos=6  signers=2 (S01, S02)
+  ألم                            videos=5  signers=3 (S01, S02, S03)
+  حمى                            videos=5  signers=3 (S01, S02, S03)
+  صيدلية                         videos=5  signers=3 (S01, S02, S03)
+  جواب                           videos=5  signers=3 (S01, S02, S06)
+
+Bottom 20 words by video count (least data):
+------------------------------
+  يمشي                           videos=1  signers=1 (S07)
+  الفجر                          videos=1  signers=1 (S07)
+  مدرب                           videos=1  signers=1 (S07)
+  الاثنين                        videos=1  signers=1 (S07)
+  غني                            videos=1  signers=1 (S07)
+  العسكرية                       videos=1  signers=1 (S06)
+  فقط                            videos=1  signers=1 (S09)
+  يخترع                          videos=1  signers=1 (S06)
+  عريس                           videos=1  signers=1 (S07)
+  خلف                            videos=1  signers=1 (S07)
+  من فضلك                        videos=1  signers=1 (S07)
+  يزن                            videos=1  signers=1 (S06)
+  تعب                            videos=1  signers=1 (S07)
+  ضابط                           videos=1  signers=1 (S07)
+  يدمن                           videos=1  signers=1 (S06)
+  يخترق                          videos=1  signers=1 (S06)
+  يرمي                           videos=1  signers=1 (S07)
+  كيمياء                         videos=1  signers=1 (S06)
+  موسيقى                         videos=1  signers=1 (S06)
+  شرطي                           videos=1  signers=1 (S07)

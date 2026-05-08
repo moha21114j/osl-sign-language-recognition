@@ -1,0 +1,8337 @@
+[
+  {
+    "word": "معلم",
+    "num_videos": 12,
+    "num_signers": 4,
+    "signers": [
+      "S01",
+      "S02",
+      "S05",
+      "S07"
+    ],
+    "videos": [
+      "0034_S01_T01.mp4",
+      "0034_S01_T02.mp4",
+      "0034_S02_T01.mp4",
+      "0034_S02_T02.mp4",
+      "0034_S05_T01.mp4",
+      "0034_S05_T02.mp4",
+      "0034_S05_T03.mp4",
+      "0034_S05_T04.mp4",
+      "0034_S05_T05.mp4",
+      "0034_S05_T06.mp4",
+      "0034_S05_T07.mp4",
+      "0034_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "سيئ",
+    "num_videos": 9,
+    "num_signers": 1,
+    "signers": [
+      "S05"
+    ],
+    "videos": [
+      "0344_S05_T01.mp4",
+      "0344_S05_T02.mp4",
+      "0344_S05_T03.mp4",
+      "0344_S05_T04.mp4",
+      "0344_S05_T05.mp4",
+      "0344_S05_T06.mp4",
+      "0344_S05_T07.mp4",
+      "0344_S05_T08.mp4",
+      "0344_S05_T09.mp4"
+    ]
+  },
+  {
+    "word": "طالب",
+    "num_videos": 8,
+    "num_signers": 3,
+    "signers": [
+      "S01",
+      "S02",
+      "S05"
+    ],
+    "videos": [
+      "0035_S01_T01.mp4",
+      "0035_S01_T02.mp4",
+      "0035_S02_T01.mp4",
+      "0035_S02_T02.mp4",
+      "0035_S05_T01.mp4",
+      "0035_S05_T02.mp4",
+      "0035_S05_T03.mp4",
+      "0035_S05_T04.mp4"
+    ]
+  },
+  {
+    "word": "مدرسة",
+    "num_videos": 7,
+    "num_signers": 4,
+    "signers": [
+      "S01",
+      "S02",
+      "S03",
+      "S07"
+    ],
+    "videos": [
+      "0031_S01_T01.mp4",
+      "0031_S01_T02.mp4",
+      "0031_S01_T03.mp4",
+      "0031_S02_T01.mp4",
+      "0031_S02_T02.mp4",
+      "0031_S03_T01.mp4",
+      "0031_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "ممكن",
+    "num_videos": 7,
+    "num_signers": 2,
+    "signers": [
+      "S05",
+      "S09"
+    ],
+    "videos": [
+      "0347_S05_T01.mp4",
+      "0347_S05_T02.mp4",
+      "0347_S05_T03.mp4",
+      "0347_S05_T04.mp4",
+      "0347_S05_T05.mp4",
+      "0347_S05_T06.mp4",
+      "0347_S09_T01.mp4"
+    ]
+  },
+  {
+    "word": "كتاب",
+    "num_videos": 7,
+    "num_signers": 4,
+    "signers": [
+      "S01",
+      "S02",
+      "S03",
+      "S06"
+    ],
+    "videos": [
+      "0037_S01_T01.mp4",
+      "0037_S01_T02.mp4",
+      "0037_S02_T01.mp4",
+      "0037_S02_T02.mp4",
+      "0037_S03_T01.mp4",
+      "0037_S03_T02.mp4",
+      "0037_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "جيد",
+    "num_videos": 7,
+    "num_signers": 1,
+    "signers": [
+      "S05"
+    ],
+    "videos": [
+      "0343_S05_T01.mp4",
+      "0343_S05_T02.mp4",
+      "0343_S05_T03.mp4",
+      "0343_S05_T04.mp4",
+      "0343_S05_T05.mp4",
+      "0343_S05_T06.mp4",
+      "0343_S05_T07.mp4"
+    ]
+  },
+  {
+    "word": "مساعدة",
+    "num_videos": 6,
+    "num_signers": 2,
+    "signers": [
+      "S04",
+      "S05"
+    ],
+    "videos": [
+      "0217_S04_T01.mp4",
+      "0217_S04_T02.mp4",
+      "0217_S05_T01.mp4",
+      "0217_S05_T02.mp4",
+      "0217_S05_T03.mp4",
+      "0217_S05_T04.mp4"
+    ]
+  },
+  {
+    "word": "دفتر",
+    "num_videos": 6,
+    "num_signers": 4,
+    "signers": [
+      "S01",
+      "S02",
+      "S03",
+      "S06"
+    ],
+    "videos": [
+      "0038_S01_T01.mp4",
+      "0038_S01_T02.mp4",
+      "0038_S02_T01.mp4",
+      "0038_S02_T02.mp4",
+      "0038_S03_T01.mp4",
+      "0038_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "سؤال",
+    "num_videos": 6,
+    "num_signers": 4,
+    "signers": [
+      "S01",
+      "S02",
+      "S03",
+      "S06"
+    ],
+    "videos": [
+      "0050_S01_T01.mp4",
+      "0050_S01_T02.mp4",
+      "0050_S02_T01.mp4",
+      "0050_S02_T02.mp4",
+      "0050_S03_T01.mp4",
+      "0050_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "مستشفى",
+    "num_videos": 6,
+    "num_signers": 4,
+    "signers": [
+      "S01",
+      "S02",
+      "S03",
+      "S07"
+    ],
+    "videos": [
+      "0001_S01_T01.mp4",
+      "0001_S01_T02.mp4",
+      "0001_S02_T01.mp4",
+      "0001_S02_T02.mp4",
+      "0001_S03_T01.mp4",
+      "0001_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "السبورة",
+    "num_videos": 6,
+    "num_signers": 4,
+    "signers": [
+      "S01",
+      "S02",
+      "S03",
+      "S06"
+    ],
+    "videos": [
+      "0040_S01_T01.mp4",
+      "0040_S01_T02.mp4",
+      "0040_S02_T01.mp4",
+      "0040_S02_T02.mp4",
+      "0040_S03_T01.mp4",
+      "0040_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "مركز",
+    "num_videos": 6,
+    "num_signers": 2,
+    "signers": [
+      "S05",
+      "S07"
+    ],
+    "videos": [
+      "0345_S05_T01.mp4",
+      "0345_S05_T02.mp4",
+      "0345_S05_T03.mp4",
+      "0345_S05_T04.mp4",
+      "0345_S05_T05.mp4",
+      "0345_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "جامعة",
+    "num_videos": 6,
+    "num_signers": 4,
+    "signers": [
+      "S01",
+      "S02",
+      "S03",
+      "S07"
+    ],
+    "videos": [
+      "0032_S01_T01.mp4",
+      "0032_S01_T02.mp4",
+      "0032_S02_T01.mp4",
+      "0032_S02_T02.mp4",
+      "0032_S03_T01.mp4",
+      "0032_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "مكتبة",
+    "num_videos": 6,
+    "num_signers": 4,
+    "signers": [
+      "S01",
+      "S02",
+      "S03",
+      "S06"
+    ],
+    "videos": [
+      "0056_S01_T01.mp4",
+      "0056_S01_T02.mp4",
+      "0056_S02_T01.mp4",
+      "0056_S02_T02.mp4",
+      "0056_S03_T01.mp4",
+      "0056_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "تعبان",
+    "num_videos": 6,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S02"
+    ],
+    "videos": [
+      "0014_S01_T01.mp4",
+      "0014_S01_T02.mp4",
+      "0014_S02_T01.mp4",
+      "0014_S02_T02.mp4",
+      "0014_S02_T03.mp4",
+      "0014_S02_T04.mp4"
+    ]
+  },
+  {
+    "word": "ألم",
+    "num_videos": 5,
+    "num_signers": 3,
+    "signers": [
+      "S01",
+      "S02",
+      "S03"
+    ],
+    "videos": [
+      "0008_S01_T01.mp4",
+      "0008_S01_T02.mp4",
+      "0008_S02_T01.mp4",
+      "0008_S02_T02.mp4",
+      "0008_S03_T03.mp4"
+    ]
+  },
+  {
+    "word": "حمى",
+    "num_videos": 5,
+    "num_signers": 3,
+    "signers": [
+      "S01",
+      "S02",
+      "S03"
+    ],
+    "videos": [
+      "0009_S01_T01.mp4",
+      "0009_S01_T02.mp4",
+      "0009_S02_T01.mp4",
+      "0009_S02_T02.mp4",
+      "0009_S03_T01.mp4"
+    ]
+  },
+  {
+    "word": "صيدلية",
+    "num_videos": 5,
+    "num_signers": 3,
+    "signers": [
+      "S01",
+      "S02",
+      "S03"
+    ],
+    "videos": [
+      "0003_S01_T01.mp4",
+      "0003_S01_T02.mp4",
+      "0003_S02_T01.mp4",
+      "0003_S02_T02.mp4",
+      "0003_S03_T01.mp4"
+    ]
+  },
+  {
+    "word": "جواب",
+    "num_videos": 5,
+    "num_signers": 3,
+    "signers": [
+      "S01",
+      "S02",
+      "S06"
+    ],
+    "videos": [
+      "0051_S01_T01.mp4",
+      "0051_S01_T02.mp4",
+      "0051_S02_T01.mp4",
+      "0051_S02_T02.mp4",
+      "0051_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "زكام",
+    "num_videos": 5,
+    "num_signers": 3,
+    "signers": [
+      "S01",
+      "S02",
+      "S03"
+    ],
+    "videos": [
+      "0011_S01_T01.mp4",
+      "0011_S01_T02.mp4",
+      "0011_S02_T01.mp4",
+      "0011_S02_T02.mp4",
+      "0011_S03_T01.mp4"
+    ]
+  },
+  {
+    "word": "تعلم",
+    "num_videos": 5,
+    "num_signers": 1,
+    "signers": [
+      "S05"
+    ],
+    "videos": [
+      "0289_S05_T01.mp4",
+      "0289_S05_T02.mp4",
+      "0289_S05_T03.mp4",
+      "0289_S05_T04.mp4",
+      "0289_S05_T05.mp4"
+    ]
+  },
+  {
+    "word": "مريض",
+    "num_videos": 5,
+    "num_signers": 3,
+    "signers": [
+      "S01",
+      "S02",
+      "S03"
+    ],
+    "videos": [
+      "0006_S01_T01.mp4",
+      "0006_S01_T02.mp4",
+      "0006_S02_T01.mp4",
+      "0006_S02_T02.mp4",
+      "0006_S03_T01.mp4"
+    ]
+  },
+  {
+    "word": "يقرأ",
+    "num_videos": 5,
+    "num_signers": 3,
+    "signers": [
+      "S01",
+      "S02",
+      "S07"
+    ],
+    "videos": [
+      "0045_S01_T01.mp4",
+      "0045_S01_T02.mp4",
+      "0045_S02_T01.mp4",
+      "0045_S02_T02.mp4",
+      "0045_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "واجب",
+    "num_videos": 5,
+    "num_signers": 3,
+    "signers": [
+      "S01",
+      "S02",
+      "S06"
+    ],
+    "videos": [
+      "0047_S01_T01.mp4",
+      "0047_S01_T02.mp4",
+      "0047_S02_T01.mp4",
+      "0047_S02_T02.mp4",
+      "0047_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "يكتب",
+    "num_videos": 5,
+    "num_signers": 3,
+    "signers": [
+      "S01",
+      "S02",
+      "S07"
+    ],
+    "videos": [
+      "0046_S01_T01.mp4",
+      "0046_S01_T02.mp4",
+      "0046_S02_T01.mp4",
+      "0046_S02_T02.mp4",
+      "0046_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "خذ دواء",
+    "num_videos": 5,
+    "num_signers": 3,
+    "signers": [
+      "S01",
+      "S02",
+      "S03"
+    ],
+    "videos": [
+      "0029_S01_T01.mp4",
+      "0029_S01_T02.mp4",
+      "0029_S02_T01.mp4",
+      "0029_S02_T02.mp4",
+      "0029_S03_T01.mp4"
+    ]
+  },
+  {
+    "word": "ممرضة",
+    "num_videos": 5,
+    "num_signers": 3,
+    "signers": [
+      "S01",
+      "S02",
+      "S07"
+    ],
+    "videos": [
+      "0005_S01_T01.mp4",
+      "0005_S01_T02.mp4",
+      "0005_S02_T01.mp4",
+      "0005_S02_T02.mp4",
+      "0005_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "ينجح",
+    "num_videos": 5,
+    "num_signers": 3,
+    "signers": [
+      "S01",
+      "S02",
+      "S07"
+    ],
+    "videos": [
+      "0052_S01_T01.mp4",
+      "0052_S01_T02.mp4",
+      "0052_S02_T01.mp4",
+      "0052_S02_T02.mp4",
+      "0052_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "مدير",
+    "num_videos": 5,
+    "num_signers": 3,
+    "signers": [
+      "S01",
+      "S02",
+      "S07"
+    ],
+    "videos": [
+      "0036_S01_T01.mp4",
+      "0036_S01_T02.mp4",
+      "0036_S02_T01.mp4",
+      "0036_S02_T02.mp4",
+      "0036_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "طبيب",
+    "num_videos": 5,
+    "num_signers": 3,
+    "signers": [
+      "S01",
+      "S02",
+      "S07"
+    ],
+    "videos": [
+      "0004_S01_T01.mp4",
+      "0004_S01_T02.mp4",
+      "0004_S02_T01.mp4",
+      "0004_S02_T02.mp4",
+      "0004_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "امتحان",
+    "num_videos": 5,
+    "num_signers": 3,
+    "signers": [
+      "S01",
+      "S02",
+      "S03"
+    ],
+    "videos": [
+      "0044_S01_T01.mp4",
+      "0044_S01_T02.mp4",
+      "0044_S02_T01.mp4",
+      "0044_S02_T02.mp4",
+      "0044_S03_T01.mp4"
+    ]
+  },
+  {
+    "word": "مختبر",
+    "num_videos": 5,
+    "num_signers": 3,
+    "signers": [
+      "S01",
+      "S02",
+      "S06"
+    ],
+    "videos": [
+      "0057_S01_T01.mp4",
+      "0057_S01_T02.mp4",
+      "0057_S02_T01.mp4",
+      "0057_S02_T02.mp4",
+      "0057_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "سكري",
+    "num_videos": 4,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S02"
+    ],
+    "videos": [
+      "0015_S01_T01.mp4",
+      "0015_S01_T02.mp4",
+      "0015_S02_T01.mp4",
+      "0015_S02_T02.mp4"
+    ]
+  },
+  {
+    "word": "دوخة",
+    "num_videos": 4,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S02"
+    ],
+    "videos": [
+      "0013_S01_T01.mp4",
+      "0013_S01_T02.mp4",
+      "0013_S02_T01.mp4",
+      "0013_S02_T02.mp4"
+    ]
+  },
+  {
+    "word": "مشكلة",
+    "num_videos": 4,
+    "num_signers": 2,
+    "signers": [
+      "S04",
+      "S07"
+    ],
+    "videos": [
+      "0201_S04_T01.mp4",
+      "0201_S04_T02.mp4",
+      "0201_S04_T03.mp4",
+      "0201_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "ضغط",
+    "num_videos": 4,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S02"
+    ],
+    "videos": [
+      "0016_S01_T01.mp4",
+      "0016_S01_T02.mp4",
+      "0016_S02_T01.mp4",
+      "0016_S02_T02.mp4"
+    ]
+  },
+  {
+    "word": "سعال",
+    "num_videos": 4,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S02"
+    ],
+    "videos": [
+      "0012_S01_T01.mp4",
+      "0012_S01_T02.mp4",
+      "0012_S02_T01.mp4",
+      "0012_S02_T02.mp4"
+    ]
+  },
+  {
+    "word": "محاضرة",
+    "num_videos": 4,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S02"
+    ],
+    "videos": [
+      "0055_S01_T01.mp4",
+      "0055_S01_T02.mp4",
+      "0055_S02_T01.mp4",
+      "0055_S02_T02.mp4"
+    ]
+  },
+  {
+    "word": "مشروع",
+    "num_videos": 4,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S02"
+    ],
+    "videos": [
+      "0058_S01_T01.mp4",
+      "0058_S01_T02.mp4",
+      "0058_S02_T01.mp4",
+      "0058_S02_T02.mp4"
+    ]
+  },
+  {
+    "word": "يفهم",
+    "num_videos": 4,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S02"
+    ],
+    "videos": [
+      "0049_S01_T01.mp4",
+      "0049_S01_T02.mp4",
+      "0049_S02_T01.mp4",
+      "0049_S02_T02.mp4"
+    ]
+  },
+  {
+    "word": "كمبيوتر",
+    "num_videos": 4,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S02"
+    ],
+    "videos": [
+      "0042_S01_T01.mp4",
+      "0042_S01_T02.mp4",
+      "0042_S02_T01.mp4",
+      "0042_S02_T02.mp4"
+    ]
+  },
+  {
+    "word": "كسر",
+    "num_videos": 4,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S02"
+    ],
+    "videos": [
+      "0018_S01_T01.mp4",
+      "0018_S01_T02.mp4",
+      "0018_S02_T01.mp4",
+      "0018_S02_T02.mp4"
+    ]
+  },
+  {
+    "word": "نزيف",
+    "num_videos": 4,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S02"
+    ],
+    "videos": [
+      "0017_S01_T01.mp4",
+      "0017_S01_T02.mp4",
+      "0017_S02_T01.mp4",
+      "0017_S02_T02.mp4"
+    ]
+  },
+  {
+    "word": "مادة",
+    "num_videos": 4,
+    "num_signers": 1,
+    "signers": [
+      "S05"
+    ],
+    "videos": [
+      "0346_S05_T01.mp4",
+      "0346_S05_T02.mp4",
+      "0346_S05_T03.mp4",
+      "0346_S05_T04.mp4"
+    ]
+  },
+  {
+    "word": "درجات",
+    "num_videos": 4,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S02"
+    ],
+    "videos": [
+      "0054_S01_T01.mp4",
+      "0054_S01_T02.mp4",
+      "0054_S02_T01.mp4",
+      "0054_S02_T02.mp4"
+    ]
+  },
+  {
+    "word": "تسجيل",
+    "num_videos": 4,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S02"
+    ],
+    "videos": [
+      "0060_S01_T01.mp4",
+      "0060_S01_T02.mp4",
+      "0060_S02_T01.mp4",
+      "0060_S02_T02.mp4"
+    ]
+  },
+  {
+    "word": "اتصل بالإسعاف",
+    "num_videos": 4,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S02"
+    ],
+    "videos": [
+      "0030_S01_T01.mp4",
+      "0030_S01_T02.mp4",
+      "0030_S02_T01.mp4",
+      "0030_S02_T02.mp4"
+    ]
+  },
+  {
+    "word": "إسعاف",
+    "num_videos": 4,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S02"
+    ],
+    "videos": [
+      "0007_S01_T01.mp4",
+      "0007_S01_T02.mp4",
+      "0007_S02_T01.mp4",
+      "0007_S02_T02.mp4"
+    ]
+  },
+  {
+    "word": "صداع",
+    "num_videos": 4,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S02"
+    ],
+    "videos": [
+      "0010_S01_T01.mp4",
+      "0010_S01_T02.mp4",
+      "0010_S02_T01.mp4",
+      "0010_S02_T02.mp4"
+    ]
+  },
+  {
+    "word": "حقيبة",
+    "num_videos": 4,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S02"
+    ],
+    "videos": [
+      "0041_S01_T01.mp4",
+      "0041_S01_T02.mp4",
+      "0041_S02_T01.mp4",
+      "0041_S02_T02.mp4"
+    ]
+  },
+  {
+    "word": "بحث",
+    "num_videos": 4,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S02"
+    ],
+    "videos": [
+      "0059_S01_T01.mp4",
+      "0059_S01_T02.mp4",
+      "0059_S02_T01.mp4",
+      "0059_S02_T02.mp4"
+    ]
+  },
+  {
+    "word": "يدرس",
+    "num_videos": 4,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S02"
+    ],
+    "videos": [
+      "0043_S01_T01.mp4",
+      "0043_S01_T02.mp4",
+      "0043_S02_T01.mp4",
+      "0043_S02_T02.mp4"
+    ]
+  },
+  {
+    "word": "صف",
+    "num_videos": 4,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S02"
+    ],
+    "videos": [
+      "0033_S01_T01.mp4",
+      "0033_S01_T02.mp4",
+      "0033_S02_T01.mp4",
+      "0033_S02_T02.mp4"
+    ]
+  },
+  {
+    "word": "يرسب",
+    "num_videos": 4,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S02"
+    ],
+    "videos": [
+      "0053_S01_T01.mp4",
+      "0053_S01_T02.mp4",
+      "0053_S02_T01.mp4",
+      "0053_S02_T02.mp4"
+    ]
+  },
+  {
+    "word": "قلم",
+    "num_videos": 4,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S02"
+    ],
+    "videos": [
+      "0039_S01_T01.mp4",
+      "0039_S01_T02.mp4",
+      "0039_S02_T01.mp4",
+      "0039_S02_T02.mp4"
+    ]
+  },
+  {
+    "word": "درس",
+    "num_videos": 4,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S02"
+    ],
+    "videos": [
+      "0048_S01_T01.mp4",
+      "0048_S01_T02.mp4",
+      "0048_S02_T01.mp4",
+      "0048_S02_T02.mp4"
+    ]
+  },
+  {
+    "word": "إعادة",
+    "num_videos": 4,
+    "num_signers": 3,
+    "signers": [
+      "S03",
+      "S04",
+      "S06"
+    ],
+    "videos": [
+      "0229_S03_T03.mp4",
+      "0229_S04_T01.mp4",
+      "0229_S04_T02.mp4",
+      "0229_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "ساعدني",
+    "num_videos": 4,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S02"
+    ],
+    "videos": [
+      "0028_S01_T01.mp4",
+      "0028_S01_T02.mp4",
+      "0028_S02_T01.mp4",
+      "0028_S02_T02.mp4"
+    ]
+  },
+  {
+    "word": "حساسية",
+    "num_videos": 4,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S02"
+    ],
+    "videos": [
+      "0019_S01_T01.mp4",
+      "0019_S01_T02.mp4",
+      "0019_S02_T02.mp4",
+      "0019_S02_T03.mp4"
+    ]
+  },
+  {
+    "word": "وقت",
+    "num_videos": 4,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S07"
+    ],
+    "videos": [
+      "0168_S03_T01.mp4",
+      "0168_S03_T02.mp4",
+      "0168_S07_T01.mp4",
+      "0168_S07_T02.mp4"
+    ]
+  },
+  {
+    "word": "سكر",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S06"
+    ],
+    "videos": [
+      "0114_S01_T01.mp4",
+      "0114_S01_T02.mp4",
+      "0114_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "جار",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S07"
+    ],
+    "videos": [
+      "0099_S01_T01.mp4",
+      "0099_S01_T02.mp4",
+      "0099_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "أمس",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S07"
+    ],
+    "videos": [
+      "0158_S03_T01.mp4",
+      "0158_S03_T02.mp4",
+      "0158_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "موقف",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S06"
+    ],
+    "videos": [
+      "0132_S03_T01.mp4",
+      "0132_S03_T02.mp4",
+      "0132_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "صديق",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S07"
+    ],
+    "videos": [
+      "0098_S01_T01.mp4",
+      "0098_S01_T02.mp4",
+      "0098_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "تنبيه",
+    "num_videos": 3,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0209_S04_T01.mp4",
+      "0209_S04_T02.mp4",
+      "0209_S04_T03.mp4"
+    ]
+  },
+  {
+    "word": "عصير",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S06"
+    ],
+    "videos": [
+      "0113_S01_T01.mp4",
+      "0113_S01_T02.mp4",
+      "0113_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "ضيوف",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S07"
+    ],
+    "videos": [
+      "0100_S01_T02.mp4",
+      "0100_S01_T03.mp4",
+      "0100_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "قديم",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S07"
+    ],
+    "videos": [
+      "0199_S03_T01.mp4",
+      "0199_S03_T02.mp4",
+      "0199_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "الأسرة",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S06",
+      "S07"
+    ],
+    "videos": [
+      "0372_S06_T01.mp4",
+      "0372_S07_T01.mp4",
+      "0372_S07_T02.mp4"
+    ]
+  },
+  {
+    "word": "طفل",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S07"
+    ],
+    "videos": [
+      "0096_S01_T01.mp4",
+      "0096_S01_T02.mp4",
+      "0096_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "موعد",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S07"
+    ],
+    "videos": [
+      "0169_S03_T01.mp4",
+      "0169_S03_T02.mp4",
+      "0169_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "شارع",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S07"
+    ],
+    "videos": [
+      "0133_S03_T01.mp4",
+      "0133_S03_T02.mp4",
+      "0133_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "سمك",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S06"
+    ],
+    "videos": [
+      "0109_S01_T01.mp4",
+      "0109_S01_T02.mp4",
+      "0109_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "مستعمل",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S07"
+    ],
+    "videos": [
+      "0200_S03_T01.mp4",
+      "0200_S03_T02.mp4",
+      "0200_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "بيت",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S07"
+    ],
+    "videos": [
+      "0066_S01_T01.mp4",
+      "0066_S01_T02.mp4",
+      "0066_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "أم",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S07"
+    ],
+    "videos": [
+      "0087_S01_T01.mp4",
+      "0087_S01_T02.mp4",
+      "0087_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "شركة",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S07"
+    ],
+    "videos": [
+      "0129_S03_T01.mp4",
+      "0129_S03_T02.mp4",
+      "0129_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "خبز",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S06"
+    ],
+    "videos": [
+      "0105_S01_T01.mp4",
+      "0105_S01_T02.mp4",
+      "0105_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "جديد",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S07"
+    ],
+    "videos": [
+      "0198_S03_T01.mp4",
+      "0198_S03_T02.mp4",
+      "0198_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "سنة",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S07"
+    ],
+    "videos": [
+      "0167_S03_T01.mp4",
+      "0167_S03_T02.mp4",
+      "0167_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "دجاج",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S06"
+    ],
+    "videos": [
+      "0108_S01_T01.mp4",
+      "0108_S01_T02.mp4",
+      "0108_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "يسار",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S07"
+    ],
+    "videos": [
+      "0147_S03_T01.mp4",
+      "0147_S03_T02.mp4",
+      "0147_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "أب",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S07"
+    ],
+    "videos": [
+      "0086_S01_T01.mp4",
+      "0086_S01_T02.mp4",
+      "0086_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "هنا",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S09"
+    ],
+    "videos": [
+      "0152_S03_T01.mp4",
+      "0152_S03_T02.mp4",
+      "0152_S09_T01.mp4"
+    ]
+  },
+  {
+    "word": "تم",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S04",
+      "S09"
+    ],
+    "videos": [
+      "0249_S04_T01.mp4",
+      "0249_S04_T02.mp4",
+      "0249_S09_T01.mp4"
+    ]
+  },
+  {
+    "word": "أخت",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S07"
+    ],
+    "videos": [
+      "0089_S01_T01.mp4",
+      "0089_S01_T02.mp4",
+      "0089_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "سوق",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S07"
+    ],
+    "videos": [
+      "0121_S03_T01.mp4",
+      "0121_S03_T02.mp4",
+      "0121_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "مساء",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S07"
+    ],
+    "videos": [
+      "0162_S03_T01.mp4",
+      "0162_S03_T02.mp4",
+      "0162_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يمين",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S07"
+    ],
+    "videos": [
+      "0146_S03_T01.mp4",
+      "0146_S03_T02.mp4",
+      "0146_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "غداً",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S07"
+    ],
+    "videos": [
+      "0157_S03_T01.mp4",
+      "0157_S03_T02.mp4",
+      "0157_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "جدة",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S07"
+    ],
+    "videos": [
+      "0095_S01_T01.mp4",
+      "0095_S01_T02.mp4",
+      "0095_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "ميناء",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S06"
+    ],
+    "videos": [
+      "0141_S03_T01.mp4",
+      "0141_S03_T02.mp4",
+      "0141_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "شاي",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S06"
+    ],
+    "videos": [
+      "0103_S01_T01.mp4",
+      "0103_S01_T02.mp4",
+      "0103_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "مطعم",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S07"
+    ],
+    "videos": [
+      "0123_S03_T01.mp4",
+      "0123_S03_T02.mp4",
+      "0123_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "صباح",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S07"
+    ],
+    "videos": [
+      "0164_S03_T01.mp4",
+      "0164_S03_T02.mp4",
+      "0164_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "متأخر",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S07"
+    ],
+    "videos": [
+      "0170_S03_T01.mp4",
+      "0170_S03_T02.mp4",
+      "0170_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "قلب",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S03"
+    ],
+    "videos": [
+      "0021_S01_T01.mp4",
+      "0021_S01_T02.mp4",
+      "0021_S03_T01.mp4"
+    ]
+  },
+  {
+    "word": "قهوة",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S06"
+    ],
+    "videos": [
+      "0104_S01_T01.mp4",
+      "0104_S01_T02.mp4",
+      "0104_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "أسبوع",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S07"
+    ],
+    "videos": [
+      "0165_S03_T01.mp4",
+      "0165_S03_T02.mp4",
+      "0165_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "رجل",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S06"
+    ],
+    "videos": [
+      "0024_S01_T01.mp4",
+      "0024_S01_T02.mp4",
+      "0024_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "أخ",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S07"
+    ],
+    "videos": [
+      "0088_S01_T01.mp4",
+      "0088_S01_T02.mp4",
+      "0088_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "ملح",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S06"
+    ],
+    "videos": [
+      "0115_S01_T01.mp4",
+      "0115_S01_T02.mp4",
+      "0115_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "ظهراً",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S07"
+    ],
+    "videos": [
+      "0161_S03_T01.mp4",
+      "0161_S03_T02.mp4",
+      "0161_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "التهاب",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S04"
+    ],
+    "videos": [
+      "0251_S03_T03.mp4",
+      "0251_S04_T01.mp4",
+      "0251_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "مبكر",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S07"
+    ],
+    "videos": [
+      "0171_S03_T01.mp4",
+      "0171_S03_T02.mp4",
+      "0171_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "حضور",
+    "num_videos": 3,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0062_S01_T01.mp4",
+      "0062_S01_T02.mp4",
+      "0062_S01_T03.mp4"
+    ]
+  },
+  {
+    "word": "ابن",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S07"
+    ],
+    "videos": [
+      "0090_S01_T01.mp4",
+      "0090_S01_T02.mp4",
+      "0090_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يصلح",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S07"
+    ],
+    "videos": [
+      "0197_S03_T01.mp4",
+      "0197_S03_T02.mp4",
+      "0197_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "جد",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S07"
+    ],
+    "videos": [
+      "0094_S01_T01.mp4",
+      "0094_S01_T02.mp4",
+      "0094_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "صحيح",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S04",
+      "S07"
+    ],
+    "videos": [
+      "0204_S04_T01.mp4",
+      "0204_S04_T02.mp4",
+      "0204_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "خطأ",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S04",
+      "S07"
+    ],
+    "videos": [
+      "0203_S04_T01.mp4",
+      "0203_S04_T02.mp4",
+      "0203_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "ابنة",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S07"
+    ],
+    "videos": [
+      "0091_S01_T01.mp4",
+      "0091_S01_T02.mp4",
+      "0091_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "مترجم",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S04",
+      "S07"
+    ],
+    "videos": [
+      "0223_S04_T01.mp4",
+      "0223_S04_T02.mp4",
+      "0223_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "رز",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S06"
+    ],
+    "videos": [
+      "0106_S01_T01.mp4",
+      "0106_S01_T02.mp4",
+      "0106_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "لحم",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S06"
+    ],
+    "videos": [
+      "0107_S01_T01.mp4",
+      "0107_S01_T02.mp4",
+      "0107_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "طعام",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S06"
+    ],
+    "videos": [
+      "0101_S01_T01.mp4",
+      "0101_S01_T02.mp4",
+      "0101_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "ماء",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S06"
+    ],
+    "videos": [
+      "0082_S01_T01.mp4",
+      "0082_S01_T02.mp4",
+      "0082_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "الآن",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S07"
+    ],
+    "videos": [
+      "0159_S03_T01.mp4",
+      "0159_S03_T02.mp4",
+      "0159_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "عملية",
+    "num_videos": 3,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0252_S04_T01.mp4",
+      "0252_S04_T02.mp4",
+      "0252_S04_T03.mp4"
+    ]
+  },
+  {
+    "word": "اليوم",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S07"
+    ],
+    "videos": [
+      "0156_S03_T01.mp4",
+      "0156_S03_T02.mp4",
+      "0156_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "مقهى",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S06"
+    ],
+    "videos": [
+      "0124_S03_T01.mp4",
+      "0124_S03_T02.mp4",
+      "0124_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "فندق",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S07"
+    ],
+    "videos": [
+      "0130_S03_T01.mp4",
+      "0130_S03_T02.mp4",
+      "0130_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "شهر",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S07"
+    ],
+    "videos": [
+      "0166_S03_T01.mp4",
+      "0166_S03_T02.mp4",
+      "0166_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "هناك",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S09"
+    ],
+    "videos": [
+      "0153_S03_T01.mp4",
+      "0153_S03_T02.mp4",
+      "0153_S09_T01.mp4"
+    ]
+  },
+  {
+    "word": "تاريخ",
+    "num_videos": 3,
+    "num_signers": 3,
+    "signers": [
+      "S03",
+      "S06",
+      "S07"
+    ],
+    "videos": [
+      "0322_S03_T01.mp4",
+      "0322_S06_T01.mp4",
+      "0322_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "منقطع",
+    "num_videos": 3,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0245_S04_T01.mp4",
+      "0245_S04_T02.mp4",
+      "0245_S04_T03.mp4"
+    ]
+  },
+  {
+    "word": "مسجد",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S07"
+    ],
+    "videos": [
+      "0131_S03_T01.mp4",
+      "0131_S03_T02.mp4",
+      "0131_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "حليب",
+    "num_videos": 3,
+    "num_signers": 2,
+    "signers": [
+      "S01",
+      "S06"
+    ],
+    "videos": [
+      "0112_S01_T01.mp4",
+      "0112_S01_T02.mp4",
+      "0112_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "باب",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0071_S01_T01.mp4",
+      "0071_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "انتهى",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0175_S03_T01.mp4",
+      "0175_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "تنظيف",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0084_S01_T01.mp4",
+      "0084_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "مغلق",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0192_S03_T01.mp4",
+      "0192_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "أين",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0151_S03_T01.mp4",
+      "0151_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "شرح",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0064_S01_T01.mp4",
+      "0064_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "لذيذ",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0118_S01_T01.mp4",
+      "0118_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "تحميل",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0237_S04_T01.mp4",
+      "0237_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "لغة",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0225_S04_T01.mp4",
+      "0225_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "مربع",
+    "num_videos": 2,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S06"
+    ],
+    "videos": [
+      "0327_S03_T01.mp4",
+      "0327_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "صالة",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0070_S01_T01.mp4",
+      "0070_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "حل",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0202_S04_T01.mp4",
+      "0202_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "غسيل",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0085_S01_T01.mp4",
+      "0085_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "أُمِّيٌّ",
+    "num_videos": 2,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S06"
+    ],
+    "videos": [
+      "0696_S03_T01.mp4",
+      "0696_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "نظام",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0258_S04_T01.mp4",
+      "0258_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "أي",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S09"
+    ],
+    "videos": [
+      "0661_S09_T01.mp4",
+      "0661_S09_T02.mp4"
+    ]
+  },
+  {
+    "word": "اختبار",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0065_S01_T01.mp4",
+      "0065_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "مكتب",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0128_S03_T01.mp4",
+      "0128_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "كرسي",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0074_S01_T01.mp4",
+      "0074_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "يعمل",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0194_S03_T01.mp4",
+      "0194_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "جدول",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0061_S01_T01.mp4",
+      "0061_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "إرسال",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0235_S04_T01.mp4",
+      "0235_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "يد",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0023_S01_T01.mp4",
+      "0023_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "طابور",
+    "num_videos": 2,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S06"
+    ],
+    "videos": [
+      "0341_S03_T01.mp4",
+      "0341_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "فم",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0027_S01_T01.mp4",
+      "0027_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "استقبال",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0236_S04_T01.mp4",
+      "0236_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "شمس",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0182_S03_T01.mp4",
+      "0182_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "رياضيات",
+    "num_videos": 2,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S06"
+    ],
+    "videos": [
+      "0340_S03_T01.mp4",
+      "0340_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "غاز",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0083_S01_T01.mp4",
+      "0083_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "عاصفة",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0190_S03_T01.mp4",
+      "0190_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "يبدأ",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0176_S03_T01.mp4",
+      "0176_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "أذن",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0026_S01_T01.mp4",
+      "0026_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "ضعيفة",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0244_S04_T01.mp4",
+      "0244_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "طاولة",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0075_S01_T01.mp4",
+      "0075_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "إرشاد",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0216_S04_T01.mp4",
+      "0216_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "تعليم",
+    "num_videos": 2,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S06"
+    ],
+    "videos": [
+      "0324_S03_T01.mp4",
+      "0324_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "إذن",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0212_S04_T01.mp4",
+      "0212_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "غرفة",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0067_S01_T01.mp4",
+      "0067_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "سرعة",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0179_S03_T01.mp4",
+      "0179_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "شهادة",
+    "num_videos": 2,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S06"
+    ],
+    "videos": [
+      "0342_S03_T01.mp4",
+      "0342_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "دم",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0250_S04_T01.mp4",
+      "0250_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "ترجمة",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0224_S04_T01.mp4",
+      "0224_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "تعليمات",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0215_S04_T01.mp4",
+      "0215_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "توقف",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0177_S03_T01.mp4",
+      "0177_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "مستطيل",
+    "num_videos": 2,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S06"
+    ],
+    "videos": [
+      "0329_S03_T01.mp4",
+      "0329_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "إشارة",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0226_S04_T01.mp4",
+      "0226_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "قريب",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0149_S03_T01.mp4",
+      "0149_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "ضرب",
+    "num_videos": 2,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S06"
+    ],
+    "videos": [
+      "0326_S03_T01.mp4",
+      "0326_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "علوم",
+    "num_videos": 2,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S06"
+    ],
+    "videos": [
+      "0335_S03_T01.mp4",
+      "0335_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "يعلم",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S05"
+    ],
+    "videos": [
+      "0348_S05_T01.mp4",
+      "0348_S05_T02.mp4"
+    ]
+  },
+  {
+    "word": "مستقيم",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0148_S03_T01.mp4",
+      "0148_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "حافلة",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0137_S03_T01.mp4",
+      "0137_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "قسمة",
+    "num_videos": 2,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S06"
+    ],
+    "videos": [
+      "0337_S03_T01.mp4",
+      "0337_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "شرطة",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0126_S03_T01.mp4",
+      "0126_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "طقس",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0184_S03_T01.mp4",
+      "0184_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "جائع",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0119_S01_T01.mp4",
+      "0119_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "بلدية",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0127_S03_T01.mp4",
+      "0127_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "وضوح",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0230_S04_T01.mp4",
+      "0230_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "شاحن",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0077_S01_T01.mp4",
+      "0077_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "مفتوح",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0191_S03_T01.mp4",
+      "0191_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "عطل",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0195_S03_T01.mp4",
+      "0195_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "وصفة",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0254_S04_T01.mp4",
+      "0254_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "بقالة",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0122_S03_T01.mp4",
+      "0122_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "الحمد لله",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0421_S07_T01.mp4",
+      "0421_S07_T02.mp4"
+    ]
+  },
+  {
+    "word": "دائرة",
+    "num_videos": 2,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S06"
+    ],
+    "videos": [
+      "0338_S03_T01.mp4",
+      "0338_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "هاتف",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0078_S01_T01.mp4",
+      "0078_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "قراءه",
+    "num_videos": 2,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S06"
+    ],
+    "videos": [
+      "0339_S03_T01.mp4",
+      "0339_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "حر",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0185_S03_T01.mp4",
+      "0185_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "ماء للشرب",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0102_S01_T01.mp4",
+      "0102_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "وزارة",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0630_S07_T01.mp4",
+      "0630_S07_T02.mp4"
+    ]
+  },
+  {
+    "word": "حساب",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0255_S04_T01.mp4",
+      "0255_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "تاكسي",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0138_S03_T01.mp4",
+      "0138_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "مطار",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0140_S03_T01.mp4",
+      "0140_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "تذكرة",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0143_S03_T01.mp4",
+      "0143_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "تلفزيون",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0079_S01_T01.mp4",
+      "0079_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "طرح",
+    "num_videos": 2,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S06"
+    ],
+    "videos": [
+      "0336_S03_T01.mp4",
+      "0336_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "مكسور",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0193_S03_T01.mp4",
+      "0193_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "كاميرا",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0232_S04_T01.mp4",
+      "0232_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "ليل",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0163_S03_T01.mp4",
+      "0163_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "بعيد",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0150_S03_T01.mp4",
+      "0150_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "متصل",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0248_S04_T01.mp4",
+      "0248_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "حذف",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0265_S04_T01.mp4",
+      "0265_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "إنترنت",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0080_S01_T01.mp4",
+      "0080_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "أن",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S09"
+    ],
+    "videos": [
+      "0656_S09_T01.mp4",
+      "0656_S09_T02.mp4"
+    ]
+  },
+  {
+    "word": "زوج",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0092_S01_T01.mp4",
+      "0092_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "فهم",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0228_S04_T01.mp4",
+      "0228_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "دعم",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0218_S04_T01.mp4",
+      "0218_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "ضعيف",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0222_S04_T01.mp4",
+      "0222_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "رحلة",
+    "num_videos": 2,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S06"
+    ],
+    "videos": [
+      "0278_S03_T01.mp4",
+      "0278_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "تنزيل",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0238_S04_T01.mp4",
+      "0238_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "ممنوع",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0210_S04_T01.mp4",
+      "0210_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "الحج",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0466_S07_T01.mp4",
+      "0466_S07_T02.mp4"
+    ]
+  },
+  {
+    "word": "عطشان",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0120_S01_T01.mp4",
+      "0120_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "وجهة",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0144_S03_T01.mp4",
+      "0144_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "موقع",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0260_S04_T01.mp4",
+      "0260_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "كهرباء",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0081_S01_T01.mp4",
+      "0081_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "غيوم",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0183_S03_T01.mp4",
+      "0183_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "خريطة",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0145_S03_T01.mp4",
+      "0145_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "ادخل",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0154_S03_T01.mp4",
+      "0154_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "مفتاح",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0076_S01_T01.mp4",
+      "0076_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "حار",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0116_S01_T01.mp4",
+      "0116_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "ملف",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0233_S04_T01.mp4",
+      "0233_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "قانون",
+    "num_videos": 2,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S06"
+    ],
+    "videos": [
+      "0334_S03_T01.mp4",
+      "0334_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "دراجة",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0139_S03_T01.mp4",
+      "0139_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "استمر",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0178_S03_T01.mp4",
+      "0178_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "راسب",
+    "num_videos": 2,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S06"
+    ],
+    "videos": [
+      "0331_S03_T01.mp4",
+      "0331_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "ظل",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0188_S03_T01.mp4",
+      "0188_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "فاكهة",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0111_S01_T01.mp4",
+      "0111_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "زوجة",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0093_S01_T01.mp4",
+      "0093_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "تعديل",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0267_S04_T01.mp4",
+      "0267_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "ضروري",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0206_S04_T01.mp4",
+      "0206_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "غياب",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0063_S01_T01.mp4",
+      "0063_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "خضار",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0110_S01_T01.mp4",
+      "0110_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "سيارة",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0136_S03_T01.mp4",
+      "0136_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "خدمة",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0219_S04_T01.mp4",
+      "0219_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "مثلث",
+    "num_videos": 2,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S06"
+    ],
+    "videos": [
+      "0328_S03_T01.mp4",
+      "0328_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "سرير",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0073_S01_T01.mp4",
+      "0073_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "متى؟",
+    "num_videos": 2,
+    "num_signers": 2,
+    "signers": [
+      "S07",
+      "S09"
+    ],
+    "videos": [
+      "0584_S07_T01.mp4",
+      "0584_S09_T01.mp4"
+    ]
+  },
+  {
+    "word": "موافقة",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0213_S04_T01.mp4",
+      "0213_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "مطبخ",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0068_S01_T01.mp4",
+      "0068_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "نافذة",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0072_S01_T01.mp4",
+      "0072_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "مسموح",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0211_S04_T01.mp4",
+      "0211_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "إضافة",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0266_S04_T01.mp4",
+      "0266_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "رأس",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0020_S01_T01.mp4",
+      "0020_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "جاهز",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0174_S03_T01.mp4",
+      "0174_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "طوارئ",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0220_S04_T01.mp4",
+      "0220_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "أصم",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0221_S04_T01.mp4",
+      "0221_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "تصوير",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0231_S04_T01.mp4",
+      "0231_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "رياح",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0187_S03_T01.mp4",
+      "0187_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "بارد",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0117_S01_T01.mp4",
+      "0117_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "علاج",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0253_S04_T01.mp4",
+      "0253_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "حمام",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0069_S01_T01.mp4",
+      "0069_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "مصرف",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0125_S03_T01.mp4",
+      "0125_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "تواصل",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0227_S04_T01.mp4",
+      "0227_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "عيادة",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0002_S01_T01.mp4",
+      "0002_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "جغرافيا",
+    "num_videos": 2,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S06"
+    ],
+    "videos": [
+      "0333_S03_T01.mp4",
+      "0333_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "بوابة",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0135_S03_T01.mp4",
+      "0135_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "عين",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0025_S01_T01.mp4",
+      "0025_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "صيانة",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0196_S03_T01.mp4",
+      "0196_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "خطر",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0207_S04_T01.mp4",
+      "0207_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "اخرج",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0155_S03_T01.mp4",
+      "0155_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "مطر",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0181_S03_T01.mp4",
+      "0181_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "بطن",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0022_S01_T01.mp4",
+      "0022_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "حفظ",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0234_S04_T01.mp4",
+      "0234_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "انتظار",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0173_S03_T01.mp4",
+      "0173_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "الأفعال",
+    "num_videos": 2,
+    "num_signers": 2,
+    "signers": [
+      "S06",
+      "S07"
+    ],
+    "videos": [
+      "0479_S06_T01.mp4",
+      "0479_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "مهم",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0205_S04_T01.mp4",
+      "0205_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "اجتماع",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0172_S03_T01.mp4",
+      "0172_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "بطيء",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0180_S03_T01.mp4",
+      "0180_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "مشاركة",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0239_S04_T01.mp4",
+      "0239_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "فصل",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0247_S04_T01.mp4",
+      "0247_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "اتصال",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0246_S04_T01.mp4",
+      "0246_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "مظلة",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0189_S03_T01.mp4",
+      "0189_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "برد",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0186_S03_T01.mp4",
+      "0186_S03_T02.mp4"
+    ]
+  },
+  {
+    "word": "شبكة",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0243_S04_T01.mp4",
+      "0243_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "ناجح",
+    "num_videos": 2,
+    "num_signers": 2,
+    "signers": [
+      "S03",
+      "S06"
+    ],
+    "videos": [
+      "0330_S03_T01.mp4",
+      "0330_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "عائلة",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S01"
+    ],
+    "videos": [
+      "0097_S01_T01.mp4",
+      "0097_S01_T02.mp4"
+    ]
+  },
+  {
+    "word": "رفض",
+    "num_videos": 2,
+    "num_signers": 1,
+    "signers": [
+      "S04"
+    ],
+    "videos": [
+      "0214_S04_T01.mp4",
+      "0214_S04_T02.mp4"
+    ]
+  },
+  {
+    "word": "يصعد",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0525_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "باذنجان",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0676_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "يسقط",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0767_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "يدخل",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0494_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "ابتزاز",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0779_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "كل",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0578_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يخرب",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0508_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يلعب",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0526_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "ينظر",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0510_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يوجد",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0542_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "إسهال",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0319_S03_T01.mp4"
+    ]
+  },
+  {
+    "word": "يرى",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0765_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "ماذا؟",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S09"
+    ],
+    "videos": [
+      "0649_S09_T01.mp4"
+    ]
+  },
+  {
+    "word": "حصن",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0735_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "شريك",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0605_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "بدوي",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0790_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "متكبر",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0569_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يعرف",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0515_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "عنب",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0686_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "يخلع",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0534_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "بخيل",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0547_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "إحساس",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0570_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "أنت",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0447_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يفتح",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0485_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يقف",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0506_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يرتاح",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0489_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "لبن",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0689_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "مذيع",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0622_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يأخذ",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0517_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "محل",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0635_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يا",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S09"
+    ],
+    "videos": [
+      "0655_S09_T01.mp4"
+    ]
+  },
+  {
+    "word": "فضي",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0396_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "كلية",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0637_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يجمع",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0754_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "خيار",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0674_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "ليمون",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0682_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "مرة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S09"
+    ],
+    "videos": [
+      "0663_S09_T01.mp4"
+    ]
+  },
+  {
+    "word": "شعب",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0791_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "طلاق",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0441_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "مسلم",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0472_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "جرح",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0323_S03_T01.mp4"
+    ]
+  },
+  {
+    "word": "تأجيل",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0533_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "تجارة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0639_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "طويل",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0571_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "محاسب",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0600_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "سعيد",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0552_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يحفظ",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0332_S03_T01.mp4"
+    ]
+  },
+  {
+    "word": "يركض",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0537_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "خطوبة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0431_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "الحاضر",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0580_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "الجمعية",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0360_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "مرة ثانية",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S09"
+    ],
+    "videos": [
+      "0665_S09_T01.mp4"
+    ]
+  },
+  {
+    "word": "اتجاه",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S09"
+    ],
+    "videos": [
+      "0673_S09_T01.mp4"
+    ]
+  },
+  {
+    "word": "موت",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0444_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "العشاء",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0589_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "صادق",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0564_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "بنفسجي",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0399_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "حلاق",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0614_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يمسك",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0519_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "حسب",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S09"
+    ],
+    "videos": [
+      "0669_S09_T01.mp4"
+    ]
+  },
+  {
+    "word": "صبر",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0554_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "موز",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0685_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "أنا",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0376_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "لو",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S09"
+    ],
+    "videos": [
+      "0660_S09_T01.mp4"
+    ]
+  },
+  {
+    "word": "مع السلامة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0426_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يتنفس",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0756_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "سائق",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0615_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "تقويم",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0712_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "البحر",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0641_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "هما",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0453_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "الماضي",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0579_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "لماذا؟",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S09"
+    ],
+    "videos": [
+      "0650_S09_T01.mp4"
+    ]
+  },
+  {
+    "word": "يفكر",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0518_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "مخادع",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0567_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يجلس",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0520_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "بيع",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0558_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "شقة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0631_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "البداية",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0582_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "غدر",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0566_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "من؟",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S09"
+    ],
+    "videos": [
+      "0652_S09_T01.mp4"
+    ]
+  },
+  {
+    "word": "محكمة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0728_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "يرفع",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0747_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "كوخ",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0721_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "برتقال",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0683_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "يمنع",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0527_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يشجع",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0751_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "فيزياء",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0699_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "قصير",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0572_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "بهارات",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0691_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "بعد",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0577_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "موظف",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0618_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "غالباً",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0706_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "سوف",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0769_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "زيت",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0695_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "زكاة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0464_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "منذ",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0710_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "سيئات",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0477_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "امرأة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0786_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "يتكلم",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0507_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يرفض",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0762_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "يغسل",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0483_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "ذهبي",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0395_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "الصفات",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0544_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "وردي",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0398_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "عفواً",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0428_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "هن",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0455_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "لا",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S09"
+    ],
+    "videos": [
+      "0672_S09_T01.mp4"
+    ]
+  },
+  {
+    "word": "ضيف",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0425_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "صراف",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0624_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "أمام",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0646_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "أحمر",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0388_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "كيف؟",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S09"
+    ],
+    "videos": [
+      "0653_S09_T01.mp4"
+    ]
+  },
+  {
+    "word": "الأحد",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0591_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "مكار",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0555_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "دقيقة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0574_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "شاطئ",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0642_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "المغرب",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0588_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "حديقة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0633_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "قرن",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0716_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "حسنات",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0476_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "لي",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0456_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يقود",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0492_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يعثر",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0772_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "عيد",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0794_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يحتقر",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0764_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "نحن",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0446_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "نائب",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S05"
+    ],
+    "videos": [
+      "0349_S05_T01.mp4"
+    ]
+  },
+  {
+    "word": "محدود",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0711_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "معهد",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0418_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "أنتما",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0793_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "عم",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0366_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "مغفرة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0475_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يكسر",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0512_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "هل؟",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S09"
+    ],
+    "videos": [
+      "0670_S09_T01.mp4"
+    ]
+  },
+  {
+    "word": "سلطنة عمان",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0648_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "جندي",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0603_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "انتشار",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0320_S03_T01.mp4"
+    ]
+  },
+  {
+    "word": "يوافق",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0504_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "ينهض",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0763_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "بنت",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0365_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يرث",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0755_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "حضري",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0797_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "يذهب",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0521_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "عمة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0367_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "هم",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0454_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "بيئة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0731_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "بني",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0394_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "شجاع",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0556_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "ينام",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0509_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يتدخل",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0744_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "حارس",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0612_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يرتدي",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0535_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "أقارب",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0436_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يدخن",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0505_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يندهش",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0502_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "احتمال",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S09"
+    ],
+    "videos": [
+      "0659_S09_T01.mp4"
+    ]
+  },
+  {
+    "word": "يطير",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0514_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يحرك",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0749_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "تمر",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0692_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "لكن",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S09"
+    ],
+    "videos": [
+      "0667_S09_T01.mp4"
+    ]
+  },
+  {
+    "word": "تاجر",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0613_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "المستقبل",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0581_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "القرآن الكريم",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0461_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يجب",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0487_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "أسود",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0392_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يتهم",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0780_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "جامع",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0730_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "عصور",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0714_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "السبت",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0590_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "خالة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0369_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "ثانوي",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0801_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "يفرغ",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0750_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "يبني",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0529_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يحب",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0500_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "أعزب",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0438_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "اسمي",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0422_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "زواج",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0430_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "محطة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0142_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "أخضر",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0389_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "ينفخ",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0766_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "المهن",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0598_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يبقى",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0760_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "الجمعة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0596_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "قبل",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0576_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "أنتم",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0449_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "شروق",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0586_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "الصوم",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0465_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يخلط",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0748_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "أرمل",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0442_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "الأربعاء",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0594_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يشتري",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0513_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "محافظة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0796_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "محامي",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0619_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "عجوز",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0788_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "يدفع",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0774_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "يختار",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0540_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "الألوان",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0792_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "مصنع",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0640_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يضرب",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0536_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "ينزل",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0524_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "منتزه",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0734_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "صهر",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0789_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "مزارع",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0623_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "جيل",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0718_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "يعيد",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0486_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "طيار",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0609_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "وزير",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0606_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يأكل",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0522_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يدمر",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0777_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "فلفل حار",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0681_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "كم؟",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S09"
+    ],
+    "videos": [
+      "0654_S09_T01.mp4"
+    ]
+  },
+  {
+    "word": "خال",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0368_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يركب",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0516_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "لها",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0459_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "لك",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0457_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "رئيس",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0621_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "آسف",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0424_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "الدين",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0460_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "ميكانيكي",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0625_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "بائع",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0611_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "بصل",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0679_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "مهندس",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0607_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "عمارة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0720_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "يستقبل",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0743_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "إمساك",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0321_S03_T01.mp4"
+    ]
+  },
+  {
+    "word": "قاضي",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0620_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "قضايا",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0713_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "الخميس",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0595_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "النهاية",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0583_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "طواف",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0469_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "رسام",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0601_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "وسط",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0647_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "صدقة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0467_S07_T018.mp4"
+    ]
+  },
+  {
+    "word": "يقول",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0795_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يخاف",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0497_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يهدد",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0761_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "بناء",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0610_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "الشهادتان",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0462_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "خياط",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0602_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يسرق",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0530_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "حفيدة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0785_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "هيئة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0736_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "كذب",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0563_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يدعم",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0503_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "مسيحي",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0474_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "الصلاة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0463_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يتمنى",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0741_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "البنك",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0643_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يحترم",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0490_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "جوز الهند",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0690_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "حداد",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0604_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "مرة أخرى",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S09"
+    ],
+    "videos": [
+      "0666_S09_T01.mp4"
+    ]
+  },
+  {
+    "word": "قلعة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0719_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "يشم",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0773_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "خادم",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0304_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "رمادي",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0429_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "ساعة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0575_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "العصر",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0587_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "برتقالي",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0393_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "إمام",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0471_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "ابتدائي",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0702_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "توأم",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0434_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "سينما",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0737_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "تفاح",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0684_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "يحتل",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0775_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "يخرج",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0495_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "ينزلق",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0798_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "يعز",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0783_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "يغلق",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0484_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "سد",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0739_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "يقفز",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0746_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "ينسحب",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0776_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "مخيم",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0632_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "عادة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0799_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "يختصر",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0759_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "سمن",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0694_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "مدة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0709_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "أحياناً",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0705_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "عقد",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0717_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "ألا",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0597_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "كل شيء",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S09"
+    ],
+    "videos": [
+      "0662_S09_T01.mp4"
+    ]
+  },
+  {
+    "word": "ناس",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0437_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "مانجو",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0687_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "شكراً",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0427_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يهرب",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0757_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "حلوى",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0693_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "يضحك",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0491_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "لأول مرة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S09"
+    ],
+    "videos": [
+      "0664_S09_T01.mp4"
+    ]
+  },
+  {
+    "word": "تدريب",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0290_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يريد",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0482_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يضيء",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0768_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "نادي",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0636_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يترك",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0538_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "صباغ",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0616_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "خيانة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0565_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "هي",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0452_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "غبي",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0546_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "محيط",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0732_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "فقير",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0549_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يبحث",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0771_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "حكومة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0727_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "ثانية",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0573_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يمتحن",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0752_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "شراء",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0557_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "له",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0458_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "خس",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0677_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "سائح",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0626_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "جميل",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0559_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "هو",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0451_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يشرب",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0523_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يسافر",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0543_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يصطدم",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0770_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "يتعلم",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0493_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "شخص",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0432_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "مول",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0725_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "حضانة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0738_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "راشد",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0787_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "قسوة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0561_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "الوضوء",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0470_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يشوي",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0511_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "مؤسسة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0726_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "ولد",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0364_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "رضيع",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0435_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يشبع",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0498_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يطرد",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0541_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "العمرة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0468_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "حفيد",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0784_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "الثلاثاء",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0593_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يذل",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0782_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "مؤقت",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0708_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "ملك",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0627_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "صيدلي",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0608_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "ولادة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0433_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "جبنة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0688_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "حي",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0443_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "اعدادي",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0703_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "رياضة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0697_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "بطاطا",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0680_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "أوقات",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0800_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "أزرق",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0390_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "ملجأ",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0723_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "مكان",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0644_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "دائما",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0704_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "يكره",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0499_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "ممتاز",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S05"
+    ],
+    "videos": [
+      "0350_S05_T01.mp4"
+    ]
+  },
+  {
+    "word": "رحمة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0562_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "معاصرة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0715_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "أحياء",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0701_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "يبتسم",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0539_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "طماطم",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0678_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "نعم",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S09"
+    ],
+    "videos": [
+      "0671_S09_T01.mp4"
+    ]
+  },
+  {
+    "word": "ذكي",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0545_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "نادراً",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0707_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "الشباب",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0351_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "ينتظر",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0480_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "كراج",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0722_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "لون",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0387_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "الضمائر",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0445_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "مزرعة",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0634_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "متواضع",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0568_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "مع",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S09"
+    ],
+    "videos": [
+      "0657_S09_T01.mp4"
+    ]
+  },
+  {
+    "word": "مهرجان",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0724_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "يشعر",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0532_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "حزين",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0551_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يهودي",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0473_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يفشل",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0496_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "أبيض",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0391_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "نجار",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0599_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "قبيح",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0560_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "جمع",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S03"
+    ],
+    "videos": [
+      "0325_S03_T01.mp4"
+    ]
+  },
+  {
+    "word": "أنتن",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0450_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "أين؟",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S09"
+    ],
+    "videos": [
+      "0651_S09_T01.mp4"
+    ]
+  },
+  {
+    "word": "يعتمد",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0488_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "بكاء",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0550_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يساعد",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0501_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "عروس",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0439_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "جزر",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0675_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "كافر",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0478_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يعطي",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0528_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يشرح",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0753_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "جسر",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0733_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "أو",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S09"
+    ],
+    "videos": [
+      "0658_S09_T01.mp4"
+    ]
+  },
+  {
+    "word": "مركز صحي",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0638_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يسجل",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0742_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "يمشي",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0481_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "الفجر",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0585_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "مدرب",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0629_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "الاثنين",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0592_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "غني",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0548_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "العسكرية",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0729_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "فقط",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S09"
+    ],
+    "videos": [
+      "0668_S09_T01.mp4"
+    ]
+  },
+  {
+    "word": "يخترع",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0745_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "عريس",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0440_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "خلف",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0645_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "من فضلك",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0423_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يزن",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0740_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "تعب",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0553_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "ضابط",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0617_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "يدمن",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0781_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "يخترق",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0778_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "يرمي",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0531_S07_T01.mp4"
+    ]
+  },
+  {
+    "word": "كيمياء",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0700_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "موسيقى",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S06"
+    ],
+    "videos": [
+      "0698_S06_T01.mp4"
+    ]
+  },
+  {
+    "word": "شرطي",
+    "num_videos": 1,
+    "num_signers": 1,
+    "signers": [
+      "S07"
+    ],
+    "videos": [
+      "0628_S07_T01.mp4"
+    ]
+  }
+]

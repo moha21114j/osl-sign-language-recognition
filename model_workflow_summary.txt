@@ -1,0 +1,62 @@
+=================================================================
+        UNI-SIGN MODEL WORKFLOW (OSL-Words ISLR)
+=================================================================
+
+INPUT
+─────
+  Pose skeleton video → 4 body parts extracted by RTMPose:
+    • body      (17 keypoints)
+    • left hand (21 keypoints)
+    • right hand(21 keypoints)
+    • face      (68 keypoints)
+  Each keypoint = (x, y, confidence_score) → shape [T, V, 3]
+  T = up to 256 frames (randomly sampled if longer)
+
+STAGE 1 — ST-GCN ENCODER (pose branch)
+───────────────────────────────────────
+  For each of the 4 parts independently:
+    [T, V, 3]
+      → Linear(3 → 64)
+      → Spatial ST-GCN
+      → left/right gets body anchor added
+      → Temporal ST-GCN
+      → Mean pool over joints    # [B, T, 256] per part
+
+  4 parts concatenated → [B, T, 1024]
+    → Linear(1024 → 768)
+    → + learnable part_para bias
+
+STAGE 2 — mT5 ENCODER-DECODER
+──────────────────────────────
+  Prefix text tokenized:
+    "Translate sign language video to Arabic: "
+      → mT5 embed_tokens → [B, prefix_len, 768]
+
+  Concatenated with pose features:
+    [prefix_embeds | pose_embeds] → [B, prefix_len+T, 768]
+
+  → mT5 Encoder
+  → mT5 Decoder
+      Training : teacher-forced with ground-truth Arabic word
+      Inference: beam search (num_beams=4), max_new_tokens=100
+
+OUTPUT
+──────
+  Generated token IDs → decoded by T5Tokenizer
+  For ISLR: single Arabic word (e.g. "كتاب")
+  Metric: top1_acc_pi (per-instance), top1_acc_pc (per-class)
+
+PARAMETER COUNT
+───────────────
+  ST-GCN encoder  : ~15M params
+  mT5-base        : ~582M params
+  TOTAL           : ~587M trainable params
+
+TRAINING SETUP (Stage 1 — completed)
+────────────────────────────────────
+  Pretrained from : CSL checkpoint
+  Dataset         : OSL-Words  train=22,632 / dev=5,664 / test=1,344
+  LR=1e-4, warmup=3 epochs, cosine decay, 30 epochs
+  Best dev acc    : 18.63% @ epoch 23  (test: 15.03% pi / 20.57% pc)
+
+=================================================================
