@@ -1,5 +1,10 @@
 # OSL Sign Language Recognition
 
+
+
+
+
+
 ## Overview
 This project presents an Orange Sign Language (OSL) recognition system developed as a Final Year Project. The system translates sign language gestures into textual output using a deep learning pipeline.
 
