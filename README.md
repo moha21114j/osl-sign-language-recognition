@@ -80,9 +80,9 @@ We acknowledge and appreciate the contributions of the authors of Uni-Sign for m
 
 This project adapts and extends the Uni-Sign framework to support Orange Sign Language, including dataset preparation, model training, and real-time inference components.
 ## Authors
-Mohammed Aljabri
-Ahmed Alabri
-Yousuf AlShaaili
-Osama Alrawahi
-Supervised by Dr.Fatma Al Raisi
+Mohammed Aljabri,
+ Ahmed Alabri,
+ Yousuf AlShaaili
+Osama Alrawahi,
+ Supervised by Dr.Fatma Al Raisi
 Final Year Project – Sultan Qaboos University
