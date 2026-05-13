@@ -1,4 +1,4 @@
-# JIssr - OSL Sign Language Recognition
+# JISSR - OSL Sign Language Recognition
 
 
 
@@ -6,7 +6,7 @@
 
 
 ## Overview
-Jissr-OM project presents an Omani Sign Language (OSL) recognition system developed as a Final Year Project. The system translates sign language gestures into textual output using a deep learning pipeline.
+JISSR-OM project presents an Omani Sign Language (OSL) recognition system developed as a Final Year Project. The system translates sign language gestures into textual output using a deep learning pipeline.
 
 The model combines Spatial-Temporal Graph Convolutional Networks (ST-GCN) for pose-based feature extraction with a sequence-to-sequence transformer model (mT5) for translation.
 
