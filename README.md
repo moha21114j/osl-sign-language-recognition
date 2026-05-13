@@ -1,4 +1,4 @@
-# OSL Sign Language Recognition
+#JIssr - OSL Sign Language Recognition
 
 
 
