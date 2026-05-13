@@ -6,7 +6,7 @@
 
 
 ## Overview
-This project presents an Orange Sign Language (OSL) recognition system developed as a Final Year Project. The system translates sign language gestures into textual output using a deep learning pipeline.
+Jissr-OM project presents an Omani Sign Language (OSL) recognition system developed as a Final Year Project. The system translates sign language gestures into textual output using a deep learning pipeline.
 
 The model combines Spatial-Temporal Graph Convolutional Networks (ST-GCN) for pose-based feature extraction with a sequence-to-sequence transformer model (mT5) for translation.
 
@@ -79,6 +79,10 @@ This project is built upon the Uni-Sign framework, “Toward Unified Sign Langua
 We acknowledge and appreciate the contributions of the authors of Uni-Sign for making their codebase and methodology publicly available. Their work on integrating Spatial-Temporal Graph Convolutional Networks (ST-GCN) with transformer-based models significantly influenced the design and implementation of this project.
 
 This project adapts and extends the Uni-Sign framework to support Orange Sign Language, including dataset preparation, model training, and real-time inference components.
-## Author
-FYP Team
+## Authors
+Mohammed Aljabri
+Ahmed Alabri
+Yousuf AlShaaili
+Osama Alrawahi
+Supervised by Dr.Fatma Al Raisi
 Final Year Project – Sultan Qaboos University
